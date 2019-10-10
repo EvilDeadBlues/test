@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "lib": [ "es6", "dom" ],
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true, //idk?
+    "esModuleInterop": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules",
+    "public/scripts/core",
+    "public/scripts/plugins",
+    "public/scripts/blk-design-system.js",
+    "public/scripts/blk-design-system.js.map",
+    "public/scripts/blk-design-system.min.js",
+    "public/scripts/OverlayScrollbars.js",
+    "public/scripts/particles.min.js",
+    "public/scripts/profile.js",
+    "public/scripts/own/login.bundle.js",
+    "public/scripts/own/register.bundle.js",
+    "public/scripts/own/resend_verification.bundle.js",
+    "public/scripts/own/request_recovery.bundle.js",
+    "public/scripts/own/recovery.bundle.js",
+    "public/scripts/own/room.bundle.js",
+    "public/scripts/own/messaging.bundle.js",
+    "dist/*",
+    "src/main.js",
+    "./postcss.config.js",
+    "./babel.config.js",
+    "dist/bundle.js",
+    "./webpack.config.js"
+  ]
+}
