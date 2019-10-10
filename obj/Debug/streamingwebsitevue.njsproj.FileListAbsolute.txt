@@ -1,0 +1,3 @@
+C:\Users\Clydette\source\repos\StreamingWebsiteVue\streamingwebsitevue\obj\Debug\streamingwebsitevue.njsproj.CoreCompileInputs.cache
+C:\Users\Clydette\source\repos\StreamingWebsiteVue\streamingwebsitevue\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Clydette\source\repos\StreamingWebsiteVue\streamingwebsitevue\obj\Debug\streamingwebsitevue.njsprojAssemblyReference.cache
